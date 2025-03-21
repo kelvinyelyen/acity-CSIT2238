@@ -1,6 +1,4 @@
-
 import java.util.Scanner;
-
 public class Example {
     int kofi = 10;
 
@@ -9,7 +7,6 @@ public class Example {
         double difference = a - b;
         return difference;
     }
-
     // non-static method
     public double addition(double a, double b) {
         double sum = a + b;
