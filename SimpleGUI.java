@@ -3,7 +3,7 @@ import java.awt.*;
 import java.awt.event.*;
 
 public class SimpleGUI {
-    public static void main(String[] args) {
+        public static void main(String[] args) {
         JFrame frame = new JFrame("Simple GUI");
         JButton button = new JButton("Click Me");
         JLabel label = new JLabel("Hello, World!");

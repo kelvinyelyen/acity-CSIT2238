@@ -1,3 +1,4 @@
+
 // Structure of a Java Program
 import java.util.Scanner;
 

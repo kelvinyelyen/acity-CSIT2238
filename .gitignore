@@ -1,0 +1,23 @@
+# Ignore all compiled Java class files
+*.class
+
+# Ignore a specific project folder
+gpa_calculator/
+
+*bin/
+*out/
+
+# Ignore all log files
+*.log
+
+# Ignore all temporary files
+*.tmp
+
+# Ignore all backup files
+*~
+
+# Ignore all text files
+*.txt
+
+# Ignore any IDE-specific files
+*.vscode/
